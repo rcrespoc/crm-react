@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Richard Actualizado!",
+      "empresa": "Inventario",
+      "email": "rjcrespo96@gmail.com",
+      "telefono": "123456789",
+      "notas": "El nuevo cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Richard",
+      "empresa": "Empresa Inc",
+      "email": "el.asd@gmail.com",
+      "telefono": "123123123",
+      "notas": "Clinte nuevo",
+      "id": 4
+    },
+    {
+      "nombre": "Castro actualizado",
+      "empresa": "Castro Inc",
+      "email": "asdasd@gmail.com",
+      "telefono": "9123198238",
+      "notas": "Cliente Catttttro",
+      "id": 5
+    }
+  ]
+}
